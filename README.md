@@ -1,5 +1,5 @@
-u1st
-====
+u1st (Ubuntu One Status)
+========================
 
 _Pequeña utilidad para conocer el estado de las transferencias de Ubuntu One._
 
